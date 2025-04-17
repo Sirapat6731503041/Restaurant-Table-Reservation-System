@@ -1,3 +1,4 @@
+package src.com.saleemare;
 public class VIPTable extends Table {
     public VIPTable(int tableNumber, int capacity) {
         super(tableNumber, capacity);

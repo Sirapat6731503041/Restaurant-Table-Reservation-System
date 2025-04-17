@@ -1,4 +1,4 @@
-import java.util.InputMismatchException;
+package src.com.saleemare;
 import java.util.Scanner;
 
 /**

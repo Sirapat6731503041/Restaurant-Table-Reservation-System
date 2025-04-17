@@ -1,3 +1,5 @@
+package src.com.saleemare;
+
 public class RestaurantReservationSystem {
     public static void main(String[] args) {
         ReservationManager manager = new ReservationManager();

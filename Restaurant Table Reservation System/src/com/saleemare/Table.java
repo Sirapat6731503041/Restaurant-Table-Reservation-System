@@ -1,3 +1,4 @@
+package src.com.saleemare;
 public abstract class Table {
     protected int tableNumber;
     protected int capacity;

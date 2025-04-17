@@ -1,3 +1,4 @@
+package src.com.saleemare;
 public class Reservation {
     private String reservationId;
     private Table table;
