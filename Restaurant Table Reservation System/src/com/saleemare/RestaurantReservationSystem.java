@@ -20,6 +20,7 @@ public class RestaurantReservationSystem {
 
             int choice = input.getIntInput("Enter choice (1-5): ", 1, 5); // ตรวจสอบให้เลือกได้แค่ 1-5
 
+                // Polymorphism allows us to create either a VIPTable or RegularTable and treat them as a Table type.
                 if (choice == 1) {
                 manager.showAvailableTables(); 
                 }
