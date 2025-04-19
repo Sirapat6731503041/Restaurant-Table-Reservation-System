@@ -6,7 +6,9 @@ import java.util.HashMap;
  * This class manages reservations using a HashMap (Collection).
  * It demonstrates file I/O (read/write to file) and exception handling.
  */
+
 public class ReservationManager {
+    // A HashMap collection is used to store reservations with table numbers as keys.
     private HashMap<Integer, Reservation> reservations = new HashMap<>();
 
     public void showAvailableTables() {
