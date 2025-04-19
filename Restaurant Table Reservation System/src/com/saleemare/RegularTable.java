@@ -6,6 +6,6 @@ public class RegularTable extends Table {
 
     @Override
     public double calculateServiceFee() {
-        return 0.0;  // โต๊ะธรรมดาไม่มีค่าบริการ
+        return 0.0;  //Regular tables have no service fee
     }
 }
