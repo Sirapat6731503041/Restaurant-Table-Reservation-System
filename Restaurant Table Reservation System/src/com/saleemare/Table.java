@@ -16,5 +16,5 @@ public abstract class Table {
         return capacity;
     }
 
-    public abstract double calculateServiceFee();  // ให้ subclass กำหนด
+    public abstract double calculateServiceFee();  //Subclass define
 }
