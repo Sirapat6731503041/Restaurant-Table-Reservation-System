@@ -30,7 +30,7 @@ public class InputHandler {
     }
 
 
-    // รับชื่อที่เป็นตัวอักษรเท่านั้น
+    //Accept only alphabetic names
     public String getValidatedName(String prompt) {
         while (true) {
             System.out.print(prompt);
