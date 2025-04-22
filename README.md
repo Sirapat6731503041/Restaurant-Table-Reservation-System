@@ -12,7 +12,7 @@ Project Information
 
 -6731503008 Yanon Laiphukum section 1
 
--6731503039Suphanat Aekmongkolsakul section 1
+-6731503039 Suphanat Aekmongkolsakul section 1
 
 -6731503041 Sirapat Ketmek section 1
 
